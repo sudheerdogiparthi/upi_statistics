@@ -418,9 +418,3 @@ This project demonstrates how historical UPI transaction data can be transformed
 Through data cleaning, exploratory data analysis, SQL querying, and interactive dashboard development, the project provides an overview of India's UPI transaction growth, transaction value trends, and banking network expansion.
 
 The final dashboard helps users explore historical payment trends, monitor transaction performance, and understand the evolution of India's digital payment ecosystem.
-
----
-
-**Developed by Sudheer Dogiparthi**
-
-**Tools:** Python | SQL | MySQL | Power BI | Pandas | NumPy
