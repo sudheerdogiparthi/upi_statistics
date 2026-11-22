@@ -267,20 +267,6 @@ The dashboard focuses on transaction performance, historical growth, and the dev
 - Monthly banking network expansion.
 - Relationship between bank participation and UPI transaction growth.
 
-### 🖼️ Dashboard Screenshots
-
-#### Dashboard 1
-
-![UPI Dashboard 1](Dashboard%201.png)
-
-#### Dashboard 2
-
-![UPI Dashboard 2](Dashboard%202.png)
-
-#### Dashboard 3
-
-![UPI Dashboard 3](Dashboard%203.png)
-
 # 📐 Key Analytical Measures
 
 The analysis focuses on the following metrics:
